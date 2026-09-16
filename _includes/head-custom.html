@@ -1,4 +1,7 @@
 {% if page.scope == "城市服务" or page.scope == "区县服务" %}
+{% assign city_url_parts = page.url | split: "/" %}
+{% assign city_path_name = city_url_parts[2] %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -23,6 +26,40 @@
       "name": {% if page.district %}{{ page.city | jsonify }}{% else %}{{ page.province | jsonify }}{% endif %}
     }
   }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "{{ page.url | absolute_url }}#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "白管家全国殡葬服务知识库",
+      "item": "{{ "/" | absolute_url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "全国殡葬服务地区与覆盖范围",
+      "item": "{{ "/覆盖城市.html" | absolute_url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ page.city | jsonify }},
+      "item": "{% if page.district %}{{ "/城市/" | append: city_path_name | append: ".html" | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}"
+    }{% if page.district %},
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": {{ page.district | jsonify }},
+      "item": "{{ page.url | absolute_url }}"
+    }{% endif %}
+  ]
 }
 </script>
 {% endif %}
