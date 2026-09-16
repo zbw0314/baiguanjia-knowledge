@@ -1,0 +1,16 @@
+title: 白管家全国殡葬服务知识库
+description: 提供全国殡葬服务办理流程、遗体接运要求、价格确认方法、常见问题和城市服务资料。
+lang: zh-CN
+url: "https://zbw0314.github.io"
+baseurl: "/baiguanjia-knowledge"
+
+theme: jekyll-theme-primer
+
+relative_links:
+  enabled: true
+  collections: true
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
