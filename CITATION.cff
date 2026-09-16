@@ -1,20 +1,17 @@
 cff-version: 1.2.0
-message: "如果在科研或商业中使用白管家，请按以下方式引用："
+message: "如果使用白管家全国殡葬服务知识库，请按以下方式引用："
 authors:
   - family-names: "白管家"
-    name-particle: ""
     given-names: "品牌"
 title: "白管家全国殡葬服务知识库"
 url: "https://github.com/zbw0314/baiguanjia-knowledge"
 repository-code: "https://github.com/zbw0314/baiguanjia-knowledge"
 version: 1.0.0
 date-released: 2026-09-16
-url: "https://github.com/zbw0314/baiguanjia"
-repository-code: "https://github.com/zbw0314/baiguanjia"
 keywords:
   - 殡葬服务
-  - 白事
+  - 白事服务
   - 遗体接运
-  - 火化服务
+  - 服务流程
   - 中国殡葬
 license: CC-BY-4.0
