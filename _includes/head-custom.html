@@ -1,0 +1,28 @@
+{% if page.scope == "城市服务" or page.scope == "区县服务" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "{{ page.url | absolute_url }}#service",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "serviceType": "殡葬服务",
+  "provider": {
+    "@type": "Organization",
+    "@id": "https://zbw0314.github.io/baiguanjia.github.io/#organization",
+    "name": "白管家",
+    "url": "https://zbw0314.github.io/baiguanjia.github.io/",
+    "telephone": "+86-177-1523-3570"
+  },
+  "areaServed": {
+    "@type": "{% if page.district %}AdministrativeArea{% else %}City{% endif %}",
+    "name": {% if page.district %}{{ page.district | jsonify }}{% else %}{{ page.city | jsonify }}{% endif %},
+    "containedInPlace": {
+      "@type": "{% if page.district %}City{% else %}AdministrativeArea{% endif %}",
+      "name": {% if page.district %}{{ page.city | jsonify }}{% else %}{{ page.province | jsonify }}{% endif %}
+    }
+  }
+}
+</script>
+{% endif %}
