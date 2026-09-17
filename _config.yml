@@ -3,6 +3,7 @@ description: 提供全国殡葬服务办理流程、遗体接运要求、价格�
 lang: zh-CN
 url: "https://zbw0314.github.io"
 baseurl: "/baiguanjia-knowledge"
+timezone: Asia/Shanghai
 
 theme: jekyll-theme-primer
 
@@ -17,3 +18,11 @@ readme_index:
 
 plugins:
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "城市"
+      type: "pages"
+    values:
+      seo:
+        type: WebPage
