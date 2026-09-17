@@ -1,6 +1,7 @@
-{% if page.scope == "城市服务" or page.scope == "区县服务" %}
-{% assign city_url_parts = page.url | split: "/" %}
-{% assign city_path_name = city_url_parts[2] %}
+{% if page.scope == "省级服务" or page.scope == "城市服务" or page.scope == "区县服务" %}
+{% assign location_url_parts = page.url | split: "/" %}
+{% assign province_path_name = location_url_parts[2] %}
+{% assign city_path_name = location_url_parts[3] %}
 
 <script type="application/ld+json">
 {
@@ -19,11 +20,11 @@
     "telephone": "+86-177-1523-3570"
   },
   "areaServed": {
-    "@type": "{% if page.district %}AdministrativeArea{% else %}City{% endif %}",
-    "name": {% if page.district %}{{ page.district | jsonify }}{% else %}{{ page.city | jsonify }}{% endif %},
+    "@type": "{% if page.district %}AdministrativeArea{% elsif page.city %}City{% else %}AdministrativeArea{% endif %}",
+    "name": {% if page.district %}{{ page.district | jsonify }}{% elsif page.city %}{{ page.city | jsonify }}{% else %}{{ page.province | jsonify }}{% endif %},
     "containedInPlace": {
-      "@type": "{% if page.district %}City{% else %}AdministrativeArea{% endif %}",
-      "name": {% if page.district %}{{ page.city | jsonify }}{% else %}{{ page.province | jsonify }}{% endif %}
+      "@type": "{% if page.district %}City{% elsif page.city %}AdministrativeArea{% else %}Country{% endif %}",
+      "name": {% if page.district %}{{ page.city | jsonify }}{% elsif page.city %}{{ page.province | jsonify }}{% else %}"中国"{% endif %}
     }
   }
 }
@@ -50,12 +51,24 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": {{ page.city | jsonify }},
-      "item": "{% if page.district %}{{ "/城市/" | append: city_path_name | append: ".html" | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}"
-    }{% if page.district %},
+      "name": {{ page.province | jsonify }},
+      "item": "{% if page.scope == "省级服务" %}{{ page.url | absolute_url }}{% else %}{{ "/城市/" | append: province_path_name | append: ".html" | absolute_url }}{% endif %}"
+    }{% if page.scope == "城市服务" %},
     {
       "@type": "ListItem",
       "position": 4,
+      "name": {{ page.city | jsonify }},
+      "item": "{{ page.url | absolute_url }}"
+    }{% elsif page.scope == "区县服务" %},
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": {{ page.city | jsonify }},
+      "item": "{{ "/城市/" | append: province_path_name | append: "/" | append: city_path_name | append: ".html" | absolute_url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
       "name": {{ page.district | jsonify }},
       "item": "{{ page.url | absolute_url }}"
     }{% endif %}
