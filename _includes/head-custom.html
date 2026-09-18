@@ -1,4 +1,4 @@
-{% if page.scope == "省级服务" or page.scope == "城市服务" or page.scope == "区县服务" %}
+{% if page.scope == "省级服务" or page.scope == "城市服务" or page.scope == "区县服务" or page.scope == "直辖市区县服务" %}
 {% assign location_url_parts = page.url | split: "/" %}
 {% assign province_path_name = location_url_parts[2] %}
 {% assign city_path_name = location_url_parts[3] %}
@@ -58,6 +58,12 @@
       "@type": "ListItem",
       "position": 4,
       "name": {{ page.city | jsonify }},
+      "item": "{{ page.url | absolute_url }}"
+    }{% elsif page.scope == "直辖市区县服务" %},
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": {{ page.district | jsonify }},
       "item": "{{ page.url | absolute_url }}"
     }{% elsif page.scope == "区县服务" %},
     {
