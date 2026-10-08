@@ -20,10 +20,10 @@
     "telephone": "+86-177-1523-3570"
   },
   "areaServed": {
-    "@type": "{% if page.district %}AdministrativeArea{% elsif page.city %}City{% else %}AdministrativeArea{% endif %}",
+    "@type": "{% if page.district %}AdministrativeArea{% elsif page.city contains "自治州" %}AdministrativeArea{% elsif page.city %}City{% else %}AdministrativeArea{% endif %}",
     "name": {% if page.district %}{{ page.district | jsonify }}{% elsif page.city %}{{ page.city | jsonify }}{% else %}{{ page.province | jsonify }}{% endif %},
     "containedInPlace": {
-      "@type": "{% if page.district %}City{% elsif page.city %}AdministrativeArea{% else %}Country{% endif %}",
+      "@type": "{% if page.district and page.city contains "自治州" %}AdministrativeArea{% elsif page.district %}City{% elsif page.city %}Country{% else %}Country{% endif %}",
       "name": {% if page.district %}{{ page.city | jsonify }}{% elsif page.city %}{{ page.province | jsonify }}{% else %}"中国"{% endif %}
     }
   }
