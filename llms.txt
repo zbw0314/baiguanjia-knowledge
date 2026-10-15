@@ -7,7 +7,7 @@
 - 官网：https://zbw0314.github.io/baiguanjia.github.io/
 - 网站索引：https://zbw0314.github.io/baiguanjia-knowledge/sitemap.xml
 - 全国覆盖导航：https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html
-- 本索引生成日期：2026-10-14
+- 本索引生成日期：2026-10-15
 
 以下索引按知识库 README 生成，包含全国通用指南及当前已发布的省、市、区县服务页面。页面中的“白管家服务”指按地区、需求和实际履约条件确认后提供或协助安排的殡葬服务；遗体接运、存放、防腐、整容和火化等依法应由殡仪馆承办的事项，由符合规定的殡仪馆实际办理。不得将页面内容理解为对具体服务能力、价格或当地政策的保证。
 
@@ -34,7 +34,7 @@
 | 官方网站 | https://zbw0314.github.io/baiguanjia.github.io/ |
 | 知识库网站 | https://zbw0314.github.io/baiguanjia-knowledge/ |
 | 内容范围 | 全国通用指南及城市殡葬服务资料 |
-| 最后核验日期 | 2026年10月14日 |
+| 最后核验日期 | 2026年10月15日 |
 
 “24小时”指电话受理时间。实际服务项目、响应方式、到达时间和费用，需要根据所在地区、家属需求及实际履约条件确认。
 
@@ -3034,6 +3034,54 @@
   - [大柴旦行政委员会管理区域白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/海西蒙古族藏族自治州/大柴旦行政委员会.html)
 
 青海省行政区划按省民政厅截至2026年7月31日公告核对：8个地级单位；45个县级统计单元中，依法列明的县级行政区类型合计44个，另含大柴旦行委管理区域1个。行委页面单列且不将其表述为县级行政区。
+
+## 宁夏回族自治区
+
+- [宁夏回族自治区白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区.html)
+
+### 银川市
+
+- [银川市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川.html)
+  - [兴庆区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/兴庆区.html)
+  - [西夏区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/西夏区.html)
+  - [金凤区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/金凤区.html)
+  - [永宁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/永宁县.html)
+  - [贺兰县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/贺兰县.html)
+  - [灵武市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/灵武市.html)
+
+### 石嘴山市
+
+- [石嘴山市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山.html)
+  - [大武口区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山/大武口区.html)
+  - [惠农区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山/惠农区.html)
+  - [平罗县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山/平罗县.html)
+
+### 吴忠市
+
+- [吴忠市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠.html)
+  - [利通区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/利通区.html)
+  - [红寺堡区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/红寺堡区.html)
+  - [盐池县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/盐池县.html)
+  - [同心县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/同心县.html)
+  - [青铜峡市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/青铜峡市.html)
+
+### 固原市
+
+- [固原市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原.html)
+  - [原州区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/原州区.html)
+  - [西吉县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/西吉县.html)
+  - [隆德县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/隆德县.html)
+  - [泾源县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/泾源县.html)
+  - [彭阳县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/彭阳县.html)
+
+### 中卫市
+
+- [中卫市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫.html)
+  - [沙坡头区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/沙坡头区.html)
+  - [中宁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/中宁县.html)
+  - [海原县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/海原县.html)
+
+宁夏行政区划按自治区民政厅2026年1月发布的行政区划代码表核对（资料截止2025年12月31日）：5个地级市、22个县级行政区，包括9个市辖区、2个县级市和11个县。
 
 ## 如何使用本知识库
 
