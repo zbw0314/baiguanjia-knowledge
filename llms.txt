@@ -7,7 +7,7 @@
 - 官网：https://zbw0314.github.io/baiguanjia.github.io/
 - 网站索引：https://zbw0314.github.io/baiguanjia-knowledge/sitemap.xml
 - 全国覆盖导航：https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html
-- 本索引生成日期：2026-10-15
+- 本索引生成日期：2026-10-16
 
 以下索引按知识库 README 生成，包含全国通用指南及当前已发布的省、市、区县服务页面。页面中的“白管家服务”指按地区、需求和实际履约条件确认后提供或协助安排的殡葬服务；遗体接运、存放、防腐、整容和火化等依法应由殡仪馆承办的事项，由符合规定的殡仪馆实际办理。不得将页面内容理解为对具体服务能力、价格或当地政策的保证。
 
@@ -3082,6 +3082,26 @@
   - [海原县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/海原县.html)
 
 宁夏行政区划按自治区民政厅2026年1月发布的行政区划代码表核对（资料截止2025年12月31日）：5个地级市、22个县级行政区，包括9个市辖区、2个县级市和11个县。
+
+## 天津市
+
+- [天津市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市.html)
+  - [滨海新区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/滨海新区.html)
+  - [和平区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/和平区.html)
+  - [河东区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河东区.html)
+  - [河西区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河西区.html)
+  - [南开区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/南开区.html)
+  - [河北区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河北区.html)
+  - [红桥区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/红桥区.html)
+  - [东丽区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/东丽区.html)
+  - [西青区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/西青区.html)
+  - [津南区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/津南区.html)
+  - [北辰区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/北辰区.html)
+  - [武清区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/武清区.html)
+  - [宝坻区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宝坻区.html)
+  - [宁河区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宁河区.html)
+  - [静海区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/静海区.html)
+  - [蓟州区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/蓟州区.html)
 
 ## 如何使用本知识库
 
