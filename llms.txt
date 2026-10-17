@@ -7,7 +7,7 @@
 - 官网：https://zbw0314.github.io/baiguanjia.github.io/
 - 网站索引：https://zbw0314.github.io/baiguanjia-knowledge/sitemap.xml
 - 全国覆盖导航：https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html
-- 本索引生成日期：2026-10-16
+- 本索引生成日期：2026-10-17
 
 以下索引按知识库 README 生成，包含全国通用指南及当前已发布的省、市、区县服务页面。页面中的“白管家服务”指按地区、需求和实际履约条件确认后提供或协助安排的殡葬服务；遗体接运、存放、防腐、整容和火化等依法应由殡仪馆承办的事项，由符合规定的殡仪馆实际办理。不得将页面内容理解为对具体服务能力、价格或当地政策的保证。
 
@@ -3102,6 +3102,125 @@
   - [宁河区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宁河区.html)
   - [静海区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/静海区.html)
   - [蓟州区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/蓟州区.html)
+
+## 内蒙古自治区
+
+- [内蒙古自治区白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区.html)
+- [呼和浩特市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特.html)
+  - [新城区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/新城区.html)（市辖区）
+  - [回民区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/回民区.html)（市辖区）
+  - [玉泉区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/玉泉区.html)（市辖区）
+  - [赛罕区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/赛罕区.html)（市辖区）
+  - [土默特左旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/土默特左旗.html)（旗）
+  - [托克托县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/托克托县.html)（县）
+  - [和林格尔县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/和林格尔县.html)（县）
+  - [清水河县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/清水河县.html)（县）
+  - [武川县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼和浩特/武川县.html)（县）
+- [包头市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头.html)
+  - [东河区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/东河区.html)（市辖区）
+  - [昆都仑区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/昆都仑区.html)（市辖区）
+  - [青山区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/青山区.html)（市辖区）
+  - [石拐区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/石拐区.html)（市辖区）
+  - [白云鄂博矿区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/白云鄂博矿区.html)（市辖区）
+  - [九原区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/九原区.html)（市辖区）
+  - [土默特右旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/土默特右旗.html)（旗）
+  - [固阳县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/固阳县.html)（县）
+  - [达尔罕茂明安联合旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/包头/达尔罕茂明安联合旗.html)（旗）
+- [呼伦贝尔市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔.html)
+  - [海拉尔区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/海拉尔区.html)（市辖区）
+  - [扎赉诺尔区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/扎赉诺尔区.html)（市辖区）
+  - [阿荣旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/阿荣旗.html)（旗）
+  - [莫力达瓦达斡尔族自治旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/莫力达瓦达斡尔族自治旗.html)（自治旗）
+  - [鄂伦春自治旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/鄂伦春自治旗.html)（自治旗）
+  - [鄂温克族自治旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/鄂温克族自治旗.html)（自治旗）
+  - [陈巴尔虎旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/陈巴尔虎旗.html)（旗）
+  - [新巴尔虎左旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/新巴尔虎左旗.html)（旗）
+  - [新巴尔虎右旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/新巴尔虎右旗.html)（旗）
+  - [满洲里市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/满洲里市.html)（县级市）
+  - [牙克石市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/牙克石市.html)（县级市）
+  - [扎兰屯市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/扎兰屯市.html)（县级市）
+  - [额尔古纳市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/额尔古纳市.html)（县级市）
+  - [根河市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/呼伦贝尔/根河市.html)（县级市）
+- [兴安盟白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟.html)
+  - [乌兰浩特市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟/乌兰浩特市.html)（县级市）
+  - [阿尔山市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟/阿尔山市.html)（县级市）
+  - [科尔沁右翼前旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟/科尔沁右翼前旗.html)（旗）
+  - [科尔沁右翼中旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟/科尔沁右翼中旗.html)（旗）
+  - [扎赉特旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟/扎赉特旗.html)（旗）
+  - [突泉县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/兴安盟/突泉县.html)（县）
+- [通辽市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽.html)
+  - [科尔沁区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/科尔沁区.html)（市辖区）
+  - [霍林郭勒市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/霍林郭勒市.html)（县级市）
+  - [科尔沁左翼中旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/科尔沁左翼中旗.html)（旗）
+  - [科尔沁左翼后旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/科尔沁左翼后旗.html)（旗）
+  - [开鲁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/开鲁县.html)（县）
+  - [库伦旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/库伦旗.html)（旗）
+  - [奈曼旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/奈曼旗.html)（旗）
+  - [扎鲁特旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/通辽/扎鲁特旗.html)（旗）
+- [赤峰市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰.html)
+  - [红山区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/红山区.html)（市辖区）
+  - [元宝山区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/元宝山区.html)（市辖区）
+  - [松山区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/松山区.html)（市辖区）
+  - [阿鲁科尔沁旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/阿鲁科尔沁旗.html)（旗）
+  - [巴林左旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/巴林左旗.html)（旗）
+  - [巴林右旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/巴林右旗.html)（旗）
+  - [林西县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/林西县.html)（县）
+  - [克什克腾旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/克什克腾旗.html)（旗）
+  - [翁牛特旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/翁牛特旗.html)（旗）
+  - [喀喇沁旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/喀喇沁旗.html)（旗）
+  - [宁城县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/宁城县.html)（县）
+  - [敖汉旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/赤峰/敖汉旗.html)（旗）
+- [锡林郭勒盟白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟.html)
+  - [二连浩特市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/二连浩特市.html)（县级市）
+  - [锡林浩特市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/锡林浩特市.html)（县级市）
+  - [阿巴嘎旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/阿巴嘎旗.html)（旗）
+  - [苏尼特左旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/苏尼特左旗.html)（旗）
+  - [苏尼特右旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/苏尼特右旗.html)（旗）
+  - [东乌珠穆沁旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/东乌珠穆沁旗.html)（旗）
+  - [西乌珠穆沁旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗.html)（旗）
+  - [太仆寺旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/太仆寺旗.html)（旗）
+  - [镶黄旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/镶黄旗.html)（旗）
+  - [正镶白旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/正镶白旗.html)（旗）
+  - [正蓝旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/正蓝旗.html)（旗）
+  - [多伦县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/锡林郭勒盟/多伦县.html)（县）
+- [乌兰察布市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布.html)
+  - [集宁区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/集宁区.html)（市辖区）
+  - [卓资县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/卓资县.html)（县）
+  - [化德县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/化德县.html)（县）
+  - [商都县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/商都县.html)（县）
+  - [兴和县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/兴和县.html)（县）
+  - [凉城县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/凉城县.html)（县）
+  - [察哈尔右翼前旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/察哈尔右翼前旗.html)（旗）
+  - [察哈尔右翼中旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/察哈尔右翼中旗.html)（旗）
+  - [察哈尔右翼后旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/察哈尔右翼后旗.html)（旗）
+  - [四子王旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/四子王旗.html)（旗）
+  - [丰镇市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌兰察布/丰镇市.html)（县级市）
+- [鄂尔多斯市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯.html)
+  - [东胜区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/东胜区.html)（市辖区）
+  - [康巴什区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/康巴什区.html)（市辖区）
+  - [达拉特旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/达拉特旗.html)（旗）
+  - [准格尔旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/准格尔旗.html)（旗）
+  - [鄂托克前旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/鄂托克前旗.html)（旗）
+  - [鄂托克旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/鄂托克旗.html)（旗）
+  - [杭锦旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/杭锦旗.html)（旗）
+  - [乌审旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/乌审旗.html)（旗）
+  - [伊金霍洛旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/鄂尔多斯/伊金霍洛旗.html)（旗）
+- [巴彦淖尔市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔.html)
+  - [临河区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/临河区.html)（市辖区）
+  - [五原县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/五原县.html)（县）
+  - [磴口县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/磴口县.html)（县）
+  - [乌拉特前旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/乌拉特前旗.html)（旗）
+  - [乌拉特中旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/乌拉特中旗.html)（旗）
+  - [乌拉特后旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/乌拉特后旗.html)（旗）
+  - [杭锦后旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/巴彦淖尔/杭锦后旗.html)（旗）
+- [乌海市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌海.html)
+  - [海勃湾区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌海/海勃湾区.html)（市辖区）
+  - [海南区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌海/海南区.html)（市辖区）
+  - [乌达区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/乌海/乌达区.html)（市辖区）
+- [阿拉善盟白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/阿拉善盟.html)
+  - [阿拉善左旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/阿拉善盟/阿拉善左旗.html)（旗）
+  - [阿拉善右旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/阿拉善盟/阿拉善右旗.html)（旗）
+  - [额济纳旗白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/内蒙古自治区/阿拉善盟/额济纳旗.html)（旗）
 
 ## 如何使用本知识库
 
